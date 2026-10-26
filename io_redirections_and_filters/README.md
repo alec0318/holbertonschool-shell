@@ -5,3 +5,4 @@ IO Redirections and filters
 2-hellofile: prints the contents of /etc/passwd file
 3-twofiles: Prints bothn files: /etc/passwd and /etc/host
 4-lastlines: prints the last 10 lines of /etc/passwd
+5-firstlines: prints the first 10 lines of /etc/passwd
