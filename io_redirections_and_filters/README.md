@@ -6,3 +6,4 @@ IO Redirections and filters
 3-twofiles: Prints bothn files: /etc/passwd and /etc/host
 4-lastlines: prints the last 10 lines of /etc/passwd
 5-firstlines: prints the first 10 lines of /etc/passwd
+6-third_line: prints the third line of iacta file
