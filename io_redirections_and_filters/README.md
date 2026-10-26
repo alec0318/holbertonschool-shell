@@ -8,3 +8,4 @@ IO Redirections and filters
 5-firstlines: prints the first 10 lines of /etc/passwd
 6-third_line: prints the third line of iacta file
 7-file: creates a file named: \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with a line that says: "Best School"
+8-cwd_state: writes the result of ls -la to the file ls_cwd_state
