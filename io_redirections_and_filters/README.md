@@ -9,3 +9,4 @@ IO Redirections and filters
 6-third_line: prints the third line of iacta file
 7-file: creates a file named: \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with a line that says: "Best School"
 8-cwd_state: writes the result of ls -la to the file ls_cwd_state
+9-duplicate_last_line: duplicates the final line of iacta 
