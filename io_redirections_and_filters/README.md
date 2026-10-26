@@ -4,3 +4,4 @@ IO Redirections and filters
 1-confused_smiley: prints a confused smiley in the terminal
 2-hellofile: prints the contents of /etc/passwd file
 3-twofiles: Prints bothn files: /etc/passwd and /etc/host
+4-lastlines: prints the last 10 lines of /etc/passwd
