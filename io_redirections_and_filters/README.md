@@ -21,4 +21,5 @@ IO Redirections and filters
 18-letteronly: displays all the lines f the file /etc/ssh/sshd_config that start with a letter
 19-AZ: repplaces the caracters A and c to Z and e
 20-hiago: removes the characters c and C from the imput
-21-reverse: reverses the input  
+21-reverse: reverses the input
+22-users_and_homes: shows all users and their home directories  
