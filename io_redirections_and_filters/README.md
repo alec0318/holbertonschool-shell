@@ -11,4 +11,5 @@ IO Redirections and filters
 8-cwd_state: writes the result of ls -la to the file ls_cwd_state
 9-duplicate_last_line: duplicates the final line of iacta
 10-no_more_js: deletes all js files
-11-directories: counts the number of directories and sub-directories in the current directory 
+11-directories: counts the number of directories and sub-directories in the current directory
+12-newest_fles: displays the newest 10 files in the current directory  
