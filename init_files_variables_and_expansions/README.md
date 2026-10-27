@@ -5,4 +5,5 @@ Shell, init files, variables and expansions
 3-paths: counts the number of directories in PATH
 4-global_variables: lists environment variables
 5-local_variables: lists all local variables and envirnment variables, and functions
+6-create_local_variable: creates the local variable named BEST with the value "School"
 
