@@ -14,4 +14,5 @@ IO Redirections and filters
 11-directories: counts the number of directories and sub-directories in the current directory
 12-newest_fles: displays the newest 10 files in the current directory
 13-unique: sorts the list of words while removing repeating ones
-14-findthatword: displays the pattern "root" from the file /etc/passwd  
+14-findthatword: displays the pattern "root" from the file /etc/passwd
+15-countthatword: counts how manny lines contained the word "bin" in the file /etc/passswd  
