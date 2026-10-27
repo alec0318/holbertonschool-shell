@@ -13,4 +13,5 @@ IO Redirections and filters
 10-no_more_js: deletes all js files
 11-directories: counts the number of directories and sub-directories in the current directory
 12-newest_fles: displays the newest 10 files in the current directory
-13-unique: sorts the list of words while removing repeating ones  
+13-unique: sorts the list of words while removing repeating ones
+14-findthatword: displays the pattern "root" from the file /etc/passwd  
