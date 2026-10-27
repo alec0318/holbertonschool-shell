@@ -18,4 +18,5 @@ IO Redirections and filters
 15-countthatword: counts how manny lines contained the word "bin" in the file /etc/passswd
 16-whatsnext: displays the pattern "root" and 3 lines after in the file /etc/passwd
 17-hidethisword: displays all the lines that do not contain the word "bin" in the file /etc/passwd
-18-letteronly: displays all the lines f the file /etc/ssh/sshd_config that start with a letter  
+18-letteronly: displays all the lines f the file /etc/ssh/sshd_config that start with a letter
+19-AZ: repplaces the caracters A and c to Z and e  
