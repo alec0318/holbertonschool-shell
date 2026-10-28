@@ -8,4 +8,5 @@ Shell, init files, variables and expansions
 6-create_local_variable: creates the local variable named BEST with the value "School"
 7-create_global_variable: creates the new global variable BEST with the value "School"
 8-true_knowledge: prints the result of 128 with the value storeed in the variable TRUEKNOWLEDGE
-0-divide_and_rule: prints the result of POWER and DIVIDE
+9-divide_and_rule: prints the result of POWER and DIVIDE
+10-love_exponent_breath: prints the result of BREATH to the power of LOVE
