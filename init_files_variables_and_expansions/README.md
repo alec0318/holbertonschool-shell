@@ -10,3 +10,5 @@ Shell, init files, variables and expansions
 8-true_knowledge: prints the result of 128 with the value storeed in the variable TRUEKNOWLEDGE
 9-divide_and_rule: prints the result of POWER and DIVIDE
 10-love_exponent_breath: prints the result of BREATH to the power of LOVE
+11-binary_to_decimal: convers the base 2 number inside BINARY to base 10
+0
