@@ -13,4 +13,4 @@ Shell, init files, variables and expansions
 11-binary_to_decimal: convers the base 2 number inside BINARY to base 10
 12-combinations: prints all possible combinations of two letters except oo
 13-print_float: prints a number with 2 decimal places
-
+14-decimal_to_hexadecimal: converts a base 10 number to a base 16 number
